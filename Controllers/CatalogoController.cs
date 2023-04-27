@@ -32,7 +32,7 @@ namespace AniWeb_Comics.Controllers
             _cache = cache;
         }
 
-
+    
         public async Task<IActionResult> Index(string? searchString)
         {
             
