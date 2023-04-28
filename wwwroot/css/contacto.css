@@ -1,0 +1,67 @@
+/* Estilo para el título */
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #fff;
+  }
+  
+  /* Estilo para el contenedor del formulario */
+  .form-container {
+    background-color: #5084DB;
+    border-radius: 10px;
+    padding: 30px;
+  }
+  
+  /* Estilo para los inputs */
+  input[type="text1"],
+  input[type="email"] {
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilo para las etiquetas */
+  label {
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  /* Estilo para el botón */
+  button[type="submit"] {
+    background-color: #fff;
+    color: #5084DB;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  /* Estilo para el botón al pasar el mouse por encima */
+  button[type="submit"]:hover {
+    background-color: #5084DB;
+    color: #fff;
+  }
+  
+  /* Estilo para los mensajes de respuesta */
+  .message {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+  }
+  
+  /* Estilo para el enlace de volver a la lista */
+  .link {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+    font-weight: bold;
+  }
+  
