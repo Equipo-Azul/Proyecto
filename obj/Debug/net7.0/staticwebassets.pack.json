@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\AniWeb-Comics.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\css\\catalogo.css",
+      "PackagePath": "staticwebassets\\css\\catalogo.css"
+    },
+    {
       "Id": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\css\\contacto.css",
       "PackagePath": "staticwebassets\\css\\contacto.css"
     },

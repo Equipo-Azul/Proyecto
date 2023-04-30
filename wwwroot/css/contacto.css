@@ -1,10 +1,10 @@
 /* Estilo para el título */
-h1 {
+.titulo {
     font-size: 36px;
     font-weight: bold;
     text-align: center;
     margin-bottom: 20px;
-    color: #fff;
+    color: #5084DB;
   }
   
   /* Estilo para el contenedor del formulario */
@@ -25,7 +25,7 @@ h1 {
   }
   
   /* Estilo para las etiquetas */
-  label {
+  .control-label {
     font-weight: bold;
     color: #fff;
   }

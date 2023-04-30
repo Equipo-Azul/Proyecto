@@ -3,9 +3,9 @@
 @{
     ViewData["Title"] = "Contacto";
 }
+<head><link rel="stylesheet" href="~/css/contacto.css"></head>
 
-
-<h2>¿Tienes problemas con tus envíos?</h2>
+<p class="titulo">¿Tienes problemas con tus envíos?</p>
 	<p>Completa el siguiente formulario de contacto y nuestro equipo de soporte se pondrá en contacto contigo lo antes posible para ayudarte a resolver cualquier problema que puedas estar experimentando.</p>
 <div class="container">
     
@@ -15,11 +15,11 @@
       <h1>Formulario de Contacto</h1>
       <form asp-controller="Contacto" asp-action="Create" method="post">
         <div class="form-group">
-          <label asp-for="Nombre" class="control-label"></label>
+          <label asp-for="Nombre" class="control-label1"></label>
           <input asp-for="Nombre" type="text1" class="form-control1" />
         </div>
         <div class="form-group">
-          <label asp-for="CorreoElectronico" class="control-label"></label>
+          <label asp-for="CorreoElectronico" class="control-label1"></label>
           <input asp-for="CorreoElectronico" type="text1" class="form-control" />
         </div>
         <div class="form-group text-center">

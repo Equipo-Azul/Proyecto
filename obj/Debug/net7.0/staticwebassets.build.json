@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hkfywAmIMZkCOiD2JW4PhiyN5B3tQRxVQjsXcFBOA/I=",
+  "Hash": "aXyh3vwEVSrBkvT/tWBjLx8czjyEA44tjmOadVj51rQ=",
   "Source": "AniWeb-Comics",
   "BasePath": "_content/AniWeb-Comics",
   "Mode": "Default",
@@ -1069,6 +1069,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AniWeb-Comics.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\css\\catalogo.css",
+      "SourceId": "AniWeb-Comics",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "BasePath": "_content/AniWeb-Comics",
+      "RelativePath": "css/catalogo.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\catalogo.css"
     },
     {
       "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\css\\contacto.css",

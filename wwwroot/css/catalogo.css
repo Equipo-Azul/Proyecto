@@ -1,0 +1,114 @@
+/* Estilos para las tarjetas de producto */
+.card {
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    height: 100%;
+  }
+  
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .card-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333333;
+  }
+  
+  .card-text {
+    font-size: 16px;
+    color: #666666;
+  }
+  
+  .card-img-actions {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px; /* Altura de la imagen */
+  }
+  
+  .card-img-actions img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain; /* Escala la imagen al tamaño máximo de su contenedor */
+    transition: transform 0.2s ease-out;
+    display: block;
+    margin: auto;
+    width: auto; /* Ancho automático */
+    height: 100%; /* Altura al 100% */
+  }
+  
+  .card-img-actions:hover img {
+    transform: scale(1.1);
+  }
+  
+  /* Estilos para los botones */
+  .btn {
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 5px;
+  }
+  
+  .btn-primary {
+    background-color: #5084DB;
+    border-color: #5084DB;
+  }
+  
+  .btn-primary:hover {
+    background-color: #3C6BBF;
+    border-color: #3C6BBF;
+  }
+  
+  .btn-info {
+    background-color: #17A2B8;
+    border-color: #17A2B8;
+  }
+  
+  .btn-info:hover {
+    background-color: #138496;
+    border-color: #138496;
+  }
+  
+  /* Estilos para el HTML proporcionado */
+  h2 {
+    font-size: 24px;
+    color: #333333;
+    margin-bottom: 20px;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+  
+  .col {
+    flex-basis: 0;
+    flex-grow: 1;
+    max-width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  
+  @media (min-width: 576px) {
+    .col-sm-4 {
+      flex: 0 0 33.333333%;
+      max-width: 33.333333%;
+    }
+  }
+  
