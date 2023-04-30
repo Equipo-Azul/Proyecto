@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eaSGLJioMhZODJiQGsdnbaxWAVbqPGU98ey5fMVROn4OOUzlBD0c3mjLAFFppegeI58vDhE8WRF3KOwM1bIwPQ==",
+  "dgSpecHash": "wd4k7S85UHirzUtTnVNAimbNssrSYg2AyrQ649bpRiLEg0YZ0tziWuFEc0Dx8ozPlLLRaPOZlIK/HCK/UVONBg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj",
+  "projectFilePath": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Julio\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Julio\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -200,12 +200,5 @@
     "C:\\Users\\Julio\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Julio\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file c:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
