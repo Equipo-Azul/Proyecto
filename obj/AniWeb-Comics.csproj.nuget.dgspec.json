@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj": {}
+    "c:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj": {
+    "c:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj",
+        "projectUniqueName": "c:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj",
         "projectName": "AniWeb-Comics",
-        "projectPath": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj",
+        "projectPath": "c:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj",
         "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\obj\\",
+        "outputPath": "c:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config"
