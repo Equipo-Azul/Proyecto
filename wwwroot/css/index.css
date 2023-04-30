@@ -32,3 +32,36 @@
     text-align: center;
   }
 }
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.gif {
+  width: 50%;
+  margin-right: 20px;
+}
+
+button {
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #008CBA;
+  border: none;
+  border-radius: 10px;
+  padding: 15px 30px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005E7D;
+}
