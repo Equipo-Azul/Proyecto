@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj": {}
+    "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\AniWeb-Comics.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj": {
+    "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\AniWeb-Comics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj",
+        "projectUniqueName": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\AniWeb-Comics.csproj",
         "projectName": "AniWeb-Comics",
-        "projectPath": "c:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj",
-        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\obj\\",
+        "projectPath": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\AniWeb-Comics.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -90,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

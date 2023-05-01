@@ -1,0 +1,21 @@
+body{
+    background: #D9D9D9;
+    background: linear-gradient(to right, #416bb1, #D9D9D9);
+}
+
+.bg{
+    background-image: url(https://cdn.discordapp.com/attachments/1101400363459944491/1101577455191466044/blue-lightning-black.png);
+    background-position: center center;
+    background-size: 200px;
+}
+
+.ltm{
+    font-family: Arial;
+    font-weight: bold;
+    color: black;
+}
+
+.lts{
+    font-family: "Open Sans";
+    color: black;
+}
