@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< Updated upstream
-  "Hash": "2hN3WSbkbVCzZGSg1nBShIEsPqtx9Mweh0lOb7dQ+EQ=",
-=======
-  "Hash": "FGLE66dCrTBHeMsdO+8R6nCtKNwd5L5JWmpXsCgxNQ0=",
->>>>>>> Stashed changes
+  "Hash": "H9+19R/VFLN1fZ/1GAWaXqtAy2/CPKMUp6OTUUEEpKg=",
   "Source": "AniWeb-Comics",
   "BasePath": "_content/AniWeb-Comics",
   "Mode": "Default",
@@ -14,17 +10,17 @@
     {
       "Name": "AniWeb-Comics\\wwwroot",
       "Source": "AniWeb-Comics",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\css\\site.css",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -35,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\favicon.ico",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -52,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\js\\site.js",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -69,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -86,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -103,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -120,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -137,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -154,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -171,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -188,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -205,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -222,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -239,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -256,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -273,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -290,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -307,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -324,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -341,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -358,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -375,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -392,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -409,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -426,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -443,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -460,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -477,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -494,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -511,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -528,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -545,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -562,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -579,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -596,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -613,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -630,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -647,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -664,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -681,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -698,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -715,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -732,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -749,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -766,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -783,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -800,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -817,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -834,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -851,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -868,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -885,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -902,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -919,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -936,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -953,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -970,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -987,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1004,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1021,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1038,13 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AniWeb-Comics.styles.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AniWeb-Comics.styles.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "AniWeb-Comics.styles.css",
       "AssetKind": "All",
@@ -1055,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AniWeb-Comics.styles.css"
+      "OriginalItemSpec": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AniWeb-Comics.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AniWeb-Comics.bundle.scp.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AniWeb-Comics.bundle.scp.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "AniWeb-Comics.bundle.scp.css",
       "AssetKind": "All",
@@ -1072,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AniWeb-Comics.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AniWeb-Comics.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\css\\catalogo.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\css\\catalogo.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "css/catalogo.css",
       "AssetKind": "All",
@@ -1092,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\catalogo.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\css\\contacto.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\css\\contacto.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "css/contacto.css",
       "AssetKind": "All",
@@ -1109,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\contacto.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\css\\index.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\css\\index.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "css/index.css",
       "AssetKind": "All",
@@ -1126,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\index.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\css\\login.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\css\\login.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -1143,20 +1139,12 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-<<<<<<< Updated upstream
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\css\\register.css",
-=======
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\css\\logoCarrito.css",
->>>>>>> Stashed changes
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\css\\logoCarrito.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
-<<<<<<< Updated upstream
-      "RelativePath": "css/register.css",
-=======
       "RelativePath": "css/logoCarrito.css",
->>>>>>> Stashed changes
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1165,17 +1153,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< Updated upstream
-      "OriginalItemSpec": "wwwroot\\css\\register.css"
-=======
       "OriginalItemSpec": "wwwroot\\css\\logoCarrito.css"
->>>>>>> Stashed changes
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\css\\register.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
+      "BasePath": "_content/AniWeb-Comics",
+      "RelativePath": "css/register.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\register.css"
+    },
+    {
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\css\\site.css",
+      "SourceId": "AniWeb-Comics",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1189,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\favicon.ico",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1206,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\image\\acall.jpg",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\image\\acall.jpg",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "image/acall.jpg",
       "AssetKind": "All",
@@ -1223,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\image\\acall.jpg"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\image\\aqua.jpg",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\image\\aqua.jpg",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "image/aqua.jpg",
       "AssetKind": "All",
@@ -1240,16 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\image\\aqua.jpg"
     },
     {
-<<<<<<< Updated upstream
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\image\\dub.jpg",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\image\\carrito.png",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\image\\carrito.png",
-      "SourceId": "AniWeb-Comics",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "image/carrito.png",
       "AssetKind": "All",
@@ -1263,11 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\image\\carrito.png"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\image\\dub.jpg",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\image\\dub.jpg",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
->>>>>>> Stashed changes
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "image/dub.jpg",
       "AssetKind": "All",
@@ -1281,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\image\\dub.jpg"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\image\\Imagen1.png",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\image\\Imagen1.png",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "image/Imagen1.png",
       "AssetKind": "All",
@@ -1298,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\image\\Imagen1.png"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\image\\komi.jpg",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\image\\komi.jpg",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "image/komi.jpg",
       "AssetKind": "All",
@@ -1315,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\image\\komi.jpg"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\image\\miku.jpg",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\image\\miku.jpg",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "image/miku.jpg",
       "AssetKind": "All",
@@ -1332,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\image\\miku.jpg"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\image\\rem.jpg",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\image\\rem.jpg",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "image/rem.jpg",
       "AssetKind": "All",
@@ -1349,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\image\\rem.jpg"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\image\\sein.jpg",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\image\\sein.jpg",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "image/sein.jpg",
       "AssetKind": "All",
@@ -1366,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\image\\sein.jpg"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\js\\site.js",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1383,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1400,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1417,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1434,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1451,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1468,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1485,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1502,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1519,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1536,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1553,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1570,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1587,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1604,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1621,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1638,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1655,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1672,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1689,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1706,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1723,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1740,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1757,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1774,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1791,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1808,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1825,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1842,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1859,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1876,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1893,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1910,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1927,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1944,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1961,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1978,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1995,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2012,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2029,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2046,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2063,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2080,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2097,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2114,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2131,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2148,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2165,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2182,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2199,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2216,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2233,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2250,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2267,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2284,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2301,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2318,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2335,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

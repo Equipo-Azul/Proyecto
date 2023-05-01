@@ -11315,27 +11315,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Julio\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< Updated upstream
-      "projectUniqueName": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj",
+      "projectUniqueName": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\AniWeb-Comics.csproj",
       "projectName": "AniWeb-Comics",
-      "projectPath": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj",
-      "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\obj\\",
-=======
-      "projectUniqueName": "c:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj",
-      "projectName": "AniWeb-Comics",
-      "projectPath": "c:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\AniWeb-Comics.csproj",
-      "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Julio\\Desktop\\netcore\\AniWeb-Comics-master\\obj\\",
->>>>>>> Stashed changes
+      "projectPath": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\AniWeb-Comics.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Inteligo\\Code\\netcore\\usmp\\obj\\Proyecto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -11411,7 +11403,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
