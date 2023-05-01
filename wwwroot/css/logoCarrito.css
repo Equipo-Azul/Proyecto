@@ -1,0 +1,28 @@
+.boton-enviar {
+    background: transparent;
+    border: none;
+    padding: 0;
+    margin: 0;
+    min-width: 50px;
+    vertical-align: middle;
+    
+  }
+  
+  
+.boton-enviar:hover {
+    border-radius: 10px;
+    background-color: #005E7D;
+    
+  }
+  .imagen-enviar {
+    display: block;
+    width: 50px; /* ajusta el tamaño de la imagen */
+    height: 40px; /* ajusta el tamaño de la imagen */
+    max-width: 100%;
+    height: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+  }
+  

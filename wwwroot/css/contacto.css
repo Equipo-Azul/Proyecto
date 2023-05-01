@@ -31,7 +31,7 @@
   }
   
   /* Estilo para el botón */
-  button[type="submit"] {
+  .btn-primary[type="submit"] {
     background-color: #fff;
     color: #5084DB;
     border: none;
@@ -43,7 +43,7 @@
   }
   
   /* Estilo para el botón al pasar el mouse por encima */
-  button[type="submit"]:hover {
+  .btn-primary:hover {
     background-color: #5084DB;
     color: #fff;
   }
