@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gmvJoJnh7RU9/2kcQhK6SPbshxSwfh+0oykmskuMlUw=",
+  "Hash": "/ZvjXLvWjOvFI4hddFRW+XfDFYYKn4RE0fOsm4VRr2Y=",
   "Source": "AniWeb-Comics",
   "BasePath": "_content/AniWeb-Comics",
   "Mode": "Default",
@@ -1137,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\wwwroot\\css\\register.css",
+      "SourceId": "AniWeb-Comics",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\wwwroot\\",
+      "BasePath": "_content/AniWeb-Comics",
+      "RelativePath": "css/register.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\register.css"
     },
     {
       "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\wwwroot\\css\\site.css",
