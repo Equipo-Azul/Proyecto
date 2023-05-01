@@ -42,7 +42,7 @@
     display: block;
     margin: auto;
     width: auto; /* Ancho automático */
-    height: 100%; /* Altura al 100% */
+    height: auto; /* Altura al 100% */
   }
   
   .card-img-actions:hover img {
