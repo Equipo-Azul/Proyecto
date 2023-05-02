@@ -31,3 +31,15 @@ body {
   color: #ffffff; /* Cambiar el color del texto a blanco */
   
 }
+
+.icop{
+  background-image: url(https://cdn.discordapp.com/attachments/1101400363459944491/1102761139483451412/icopagebar.png);
+}
+
+.tfc{
+  font-family: "Comic Sans MS";
+  color: #D9D9D9;
+  font-weight: bold;
+  font-size: 18px;
+  text-shadow: 2px 2px 2px black;
+}
