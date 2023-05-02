@@ -19,6 +19,7 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: #EFEFEF;
 }
 
 .navbar-custom {
@@ -31,3 +32,4 @@ body {
   color: #ffffff; /* Cambiar el color del texto a blanco */
   
 }
+

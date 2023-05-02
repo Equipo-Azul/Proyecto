@@ -3,43 +3,49 @@
 @{
     ViewData["Title"] = "Contacto";
 }
-<head><link rel="stylesheet" href="~/css/contacto.css"></head>
 
-<p class="titulo">¿Tienes problemas con tus envíos?</p>
-	<p>Completa el siguiente formulario de contacto y nuestro equipo de soporte se pondrá en contacto contigo lo antes posible para ayudarte a resolver cualquier problema que puedas estar experimentando.</p>
+<head>
+    <link rel="stylesheet" href="~/css/contacto.css">
+</head>
+
+<!-- Título y descripción del formulario -->
 <div class="container">
+    <p class="titulo">¿Tienes problemas con tus envíos?</p>
+    <p>Completa el siguiente formulario de contacto y nuestro equipo de soporte se pondrá en contacto contigo lo antes posible para ayudarte a resolver cualquier problema que puedas estar experimentando.</p>
     
+    <!-- Formulario de contacto -->
     <div class="row justify-content-center">
-  <div class="col-md-6">
-    <div class="form-container">
-      <h1>Formulario de Contacto</h1>
-      <form asp-controller="Contacto" asp-action="Create" method="post">
-        <div class="form-group">
-          <label asp-for="Nombre" class="control-label1"></label>
-          <input asp-for="Nombre" type="text1" class="form-control1" />
+        <div class="col-md-6">
+            <div class="form-container">
+                <h1>Formulario de Contacto</h1>
+                <form asp-controller="Contacto" asp-action="Create" method="post">
+                    <div class="form-group">
+                        <label asp-for="Nombre" class="control-label1"></label>
+                        <input asp-for="Nombre" type="text1" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="CorreoElectronico" class="control-label1"></label>
+                        <input asp-for="CorreoElectronico" type="text1" class="form-control" />
+                    </div>
+                    <div class="form-group text-center">
+                        <button type="submit" class="btn btn-primary">Enviar</button>
+                    </div>
+                </form>
+                
+                <!-- Mensaje de confirmación de envío -->
+                <div class="message">
+                    <h1>@ViewData["Message"]</h1>
+                    <div>
+                        <a asp-action="Index" class="link">Volver a la Lista</a>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="form-group">
-          <label asp-for="CorreoElectronico" class="control-label1"></label>
-          <input asp-for="CorreoElectronico" type="text1" class="form-control" />
-        </div>
-        <div class="form-group text-center">
-          <button type="submit" class="btn btn-primary">Enviar</button>
-        </div>
-      </form>
-      <div class="message">
-        <h1>@ViewData["Message"]</h1>
-        <div>
-          <a asp-action="Index" class="link">Volver a la Lista</a>
-        </div>
-      </div>
     </div>
-  </div>
 </div>
 
-</div>
+<!-- Mapa de Google Maps -->
 <section>
-  <h2>También nos puedes encontrar en:</h2>
-  
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30377.337938966804!2d-3.7037907453839297!3d40.416775985119856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42286a785854cb%3A0xdeb1bfe2d9b3c817!2sMadrid%2C%20Spain!5e0!3m2!1sen!2sus!4v1653809477884!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <h2>También nos puedes encontrar en:</h2>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30377.337938966804!2d-3.7037907453839297!3d40.416775985119856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42286a785854cb%3A0xdeb1bfe2d9b3c817!2sMadrid%2C%20Spain!5e0!3m2!1sen!2sus!4v1653809477884!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </section>
-
