@@ -44,3 +44,14 @@ body {
   font-size: 18px;
   text-shadow: 2px 2px 2px black;
 }
+
+.bnb {
+  border-bottom: 1px solid #111111 !important;
+}
+
+.toggler-icon{
+  position: relative;
+  width: 36px;
+  top: -5px;
+  left: -5px;
+}

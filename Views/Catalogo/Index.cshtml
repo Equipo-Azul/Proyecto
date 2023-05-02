@@ -4,7 +4,18 @@
 }
 <link rel="stylesheet" href="~/css/catalogo.css">
 
-<h2>@ViewData["Title"]</h2>
+<h2 class="text-cat-h2">Catálogo - Mangas y Comics</h2>
+
+<div class="form-floating mb-3">
+  <div class="backpage">
+  <a href="/Catalogo"><button type="submit"><img src="https://cdn.discordapp.com/attachments/1101400363459944491/1102863048923938816/back.png" alt=""></button></a>
+  </div>
+  <form action="/Catalogo" method="post" class="search-bar">
+    <input type="text" name="searchString" placeholder="Buscar ...">
+    <button type="submit"><img src="https://cdn.discordapp.com/attachments/1101400363459944491/1102846320961654824/search.png" alt="" class="ico-search"></button>
+    <input name="__RequestVerificationToken" type="hidden" value="CfDJ8LK_a9e0GA1Gl2lQHuz9x-4atQWyIto08dXDan-7ZsTwvdmgerMoeZvu5ohRWolqh7mLcBkmqNOx46LxLxqPWTdnE9QTZsufzbnwPb2JhWLSsrCwsNoann7vNhIpv12c78sOHCILX4Rq91VWT8ctHuo">
+  </form>
+</div>
 
   <div class="container">
     <h2>@ViewData["Message"]</h2>
