@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\AniWeb-Comics.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\wwwroot\\css\\carrito.css",
+      "PackagePath": "staticwebassets\\css\\carrito.css"
+    },
+    {
       "Id": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\wwwroot\\css\\catalogo.css",
       "PackagePath": "staticwebassets\\css\\catalogo.css"
     },
@@ -55,6 +59,10 @@
     {
       "Id": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\wwwroot\\image\\dub.jpg",
       "PackagePath": "staticwebassets\\image\\dub.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\wwwroot\\image\\icopage.ico",
+      "PackagePath": "staticwebassets\\image\\icopage.ico"
     },
     {
       "Id": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\wwwroot\\image\\komi.jpg",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "87kY0cMmszlHzVkpzOOkv4pY8y8qmziZGWKBHzuWscI=",
+  "Hash": "1CpqlPKHzduv+rEWykAn0KBtTtsygtJYO9R6o3iwwok=",
   "Source": "AniWeb-Comics",
   "BasePath": "_content/AniWeb-Comics",
   "Mode": "Default",
@@ -1071,6 +1071,23 @@
       "OriginalItemSpec": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AniWeb-Comics.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\wwwroot\\css\\carrito.css",
+      "SourceId": "AniWeb-Comics",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\wwwroot\\",
+      "BasePath": "_content/AniWeb-Comics",
+      "RelativePath": "css/carrito.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\carrito.css"
+    },
+    {
       "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\wwwroot\\css\\catalogo.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
@@ -1273,6 +1290,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\image\\dub.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\wwwroot\\image\\icopage.ico",
+      "SourceId": "AniWeb-Comics",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\wwwroot\\",
+      "BasePath": "_content/AniWeb-Comics",
+      "RelativePath": "image/icopage.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\icopage.ico"
     },
     {
       "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\wwwroot\\image\\Imagen1.png",
