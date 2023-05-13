@@ -12,7 +12,7 @@ using System.Dynamic;
 using AniWeb_Comics.Models;
 
 
-namespace appfunko.Controllers
+namespace AniWeb_Comics.Controllers
 {
     public class ProformaController : Controller
     {

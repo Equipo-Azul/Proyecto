@@ -12,7 +12,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace AniWeb_Comics.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230512041424_TodoMigration")]
+    [Migration("20230512053331_TodoMigration")]
     partial class TodoMigration
     {
         /// <inheritdoc />

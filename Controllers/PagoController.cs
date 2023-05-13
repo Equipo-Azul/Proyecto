@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.AspNetCore.Identity;
-
 using AniWeb_Comics.Data;
 using AniWeb_Comics.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace appfunko.Controllers
+namespace AniWeb_Comics.Controllers
 {
     
     public class PagoController : Controller
