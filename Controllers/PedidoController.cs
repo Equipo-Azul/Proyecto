@@ -29,7 +29,7 @@ namespace AniWeb_Comics.Controllers
         public  async Task<IActionResult>  Index()
         {
              var pedidos = from o in _context.DataPedido select o;
-             pedidos = pedidos.Where(s => s.Status.Contains("Pendientes"));
+             pedidos = pedidos.Where(s => s.Status.Contains("PENDIENTE"));
             
             return View(await pedidos.ToListAsync());
         }
