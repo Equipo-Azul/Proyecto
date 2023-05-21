@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\AniWeb-Comics.csproj": {}
+    "d:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\AniWeb-Comics.csproj": {}
   },
   "projects": {
-    "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\AniWeb-Comics.csproj": {
+    "d:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\AniWeb-Comics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\AniWeb-Comics.csproj",
+        "projectUniqueName": "d:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\AniWeb-Comics.csproj",
         "projectName": "AniWeb-Comics",
-        "projectPath": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\AniWeb-Comics.csproj",
+        "projectPath": "d:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\AniWeb-Comics.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\obj\\",
+        "outputPath": "d:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
