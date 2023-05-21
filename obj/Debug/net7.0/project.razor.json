@@ -18655,6 +18655,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\Views\\Proforma\\Edit.cshtml",
+      "TargetPath": "Views\\Proforma\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\Views\\Producto\\Index.cshtml",
       "TargetPath": "Views\\Producto\\Index.cshtml",
       "FileKind": "mvc"
@@ -18685,6 +18690,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\Views\\Pago\\Create.cshtml",
+      "TargetPath": "Views\\Pago\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -18705,6 +18715,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\Views\\Pedido\\Index.cshtml",
+      "TargetPath": "Views\\Pedido\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -18722,6 +18737,11 @@
     {
       "FilePath": "d:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\Views\\Home\\Nosotros.cshtml",
       "TargetPath": "Views\\Home\\Nosotros.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\Views\\Shared\\_MenuAdminPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_MenuAdminPartial.cshtml",
       "FileKind": "mvc"
     },
     {
