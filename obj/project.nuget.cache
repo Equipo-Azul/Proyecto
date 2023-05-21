@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WURsWzlMsjMV3q8hp5AAOltLovfLF1ylPHZ5YbcmN3uQEIAGXSP8VJJzxxfBUYvB8mmbMrkuashxQzvUvVrsCg==",
+  "dgSpecHash": "apH1uGpSSGKvIEIbHJUhSHNmiapLfKHZn3UkEfWX2qG2eIfmm3yPZgf8WtD8yG4ferfhkISasCGkl1ske2rvqA==",
   "success": true,
-  "projectFilePath": "d:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\AniWeb-Comics.csproj",
+  "projectFilePath": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\AniWeb-Comics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
