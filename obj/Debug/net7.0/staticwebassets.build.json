@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "UDNaKyuK3QIWR4nTMX9km8XOZfw5tcOviZzojxstxgw=",
-=======
-  "Hash": "1CpqlPKHzduv+rEWykAn0KBtTtsygtJYO9R6o3iwwok=",
->>>>>>> 2c34530a52750ba60a9147c766158f8e99c11192
+  "Hash": "GJcWJkznLyXfesf2ZlzuiStY0Iu6PncbNWSkohgCos0=",
   "Source": "AniWeb-Comics",
   "BasePath": "_content/AniWeb-Comics",
   "Mode": "Default",
@@ -1075,13 +1071,10 @@
       "OriginalItemSpec": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AniWeb-Comics.bundle.scp.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\wwwroot\\css\\catalogo.css",
-=======
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\wwwroot\\css\\carrito.css",
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\wwwroot\\css\\carrito.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\wwwroot\\",
+      "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\wwwroot\\",
       "BasePath": "_content/AniWeb-Comics",
       "RelativePath": "css/carrito.css",
       "AssetKind": "All",
@@ -1095,8 +1088,7 @@
       "OriginalItemSpec": "wwwroot\\css\\carrito.css"
     },
     {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\wwwroot\\css\\catalogo.css",
->>>>>>> 2c34530a52750ba60a9147c766158f8e99c11192
+      "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\wwwroot\\css\\catalogo.css",
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\wwwroot\\",
@@ -1300,28 +1292,7 @@
       "OriginalItemSpec": "wwwroot\\image\\dub.jpg"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\wwwroot\\image\\icopage.ico",
-=======
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\wwwroot\\image\\icopage.ico",
-      "SourceId": "AniWeb-Comics",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\wwwroot\\",
-      "BasePath": "_content/AniWeb-Comics",
-      "RelativePath": "image/icopage.ico",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\icopage.ico"
-    },
-    {
-      "Identity": "C:\\Users\\Julio\\Desktop\\netcore\\Proyecto\\wwwroot\\image\\Imagen1.png",
->>>>>>> 2c34530a52750ba60a9147c766158f8e99c11192
       "SourceId": "AniWeb-Comics",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Inteligo\\Code\\netcore\\usmp\\2023\\Proyecto\\wwwroot\\",

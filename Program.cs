@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using AniWeb_Comics.Data;
 using Npgsql.EntityFrameworkCore.PostgreSQL;
 using StackExchange.Redis;
+using AniWeb_Comics.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +18,8 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 
+
+builder.Services.AddScoped<ProductoService, ProductoService>();
 
 builder.Services.AddStackExchangeRedisCache(options =>
     {
