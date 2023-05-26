@@ -1,2 +1,59 @@
 GET http://localhost:5056/api/producto HTTP/1.1
 Accept: application/json
+
+GET http://localhost:5056/api/producto/1 HTTP/1.1
+Accept: application/json
+
+GET http://localhost:5056/api/producto/2 HTTP/1.1
+Accept: application/json
+
+GET http://localhost:5056/api/producto/3 HTTP/1.1
+Accept: application/json
+
+POST http://localhost:5056/api/producto HTTP/1.1
+Content-Type: application/json
+Accept: application/json
+
+GET https://weatherapi-com.p.rapidapi.com/current.json?q=-12.0464,-77.0428 HTTP/1.1
+Accept: application/json
+X-RapidAPI-Key: aaf3397a3bmshd25c5cd7c5ee9bbp12631ajsnb04d53f64978
+X-RapidAPI-Host: weatherapi-com.p.rapidapi.com
+
+GET https://weatherapi-com.p.rapidapi.com/forecast.json?q=Lima&days=3 HTTP/1.1
+Accept: application/json
+X-RapidAPI-Key: aaf3397a3bmshd25c5cd7c5ee9bbp12631ajsnb04d53f64978
+
+GET https://weatherapi-com.p.rapidapi.com/sports.json?q=Lima HTTP/1.1
+Accept: application/json
+X-RapidAPI-Key: aaf3397a3bmshd25c5cd7c5ee9bbp12631ajsnb04d53f64978
+
+POST https://rapidprod-sendgrid-v1.p.rapidapi.com/mail/send
+Accept: application/json
+X-RapidAPI-Key: aaf3397a3bmshd25c5cd7c5ee9bbp12631ajsnb04d53f64978
+Content-Type: application/json
+
+{
+    "personalizations": [
+        {
+            "to": [
+                {
+                    "email": "juliovilchez1239@gmail.com"
+                }
+            ],
+            "subject": "Ganaste S/.500!"
+        }
+    ],
+    "from": {
+        "email": "apuestototal@peru.pe"
+    },
+    "content": [
+        {
+            "type": "UwU",
+            "value": "Hello, World!"
+        }
+    ]
+}
+
+GET https://currency-exchange.p.rapidapi.com/exchange?from=USD&to=PEN&q=1.0 HTTP/1.1
+Accept: application/json
+X-RapidAPI-Key: aaf3397a3bmshd25c5cd7c5ee9bbp12631ajsnb04d53f64978
