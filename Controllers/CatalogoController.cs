@@ -68,7 +68,7 @@ namespace AniWeb_Comics.Controllers
                 return  View("Index",productos);
             }else{
                 var producto = await _dbcontext.DataProductos.FindAsync(id);
-
+                ViewData["Message"] = "productos añadidos";
                 Proforma proforma = new Proforma();
                 proforma.Producto = producto;
                 proforma.Precio = producto.Precio; //precio del producto en ese momento
