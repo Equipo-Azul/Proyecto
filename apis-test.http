@@ -40,16 +40,16 @@ Content-Type: application/json
                     "email": "juliovilchez1239@gmail.com"
                 }
             ],
-            "subject": "Ganaste S/.500!"
+            "subject": "Sobre su reporte del producto...."
         }
     ],
     "from": {
-        "email": "apuestototal@peru.pe"
+        "email": "Aniweb@Comics.pe"
     },
     "content": [
         {
-            "type": "UwU",
-            "value": "Hello, World!"
+            "type": "Reporte recibido",
+            "value": "---"
         }
     ]
 }
