@@ -1,0 +1,84 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th,
+.table td {
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+.table th {
+    background-color: #f2f2f2;
+    text-align: left;
+}
+
+.table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.table tr:hover {
+    background-color: #e6e6e6;
+}
+
+.table a {
+    margin-right: 5px;
+}
+
+.table td:last-child {
+    text-align: center;
+}
+
+
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.image-thumbnail {
+    max-width: 100px;
+    max-height: 100px;
+    transition: all 0.3s ease;
+}
+
+.zoom-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.zoomed-image {
+    max-width: 100%; /* Modifica el valor según el tamaño deseado */
+    max-height: 100%; /* Modifica el valor según el tamaño deseado */
+}
+
+.image-container:hover .image-thumbnail {
+    transform: scale(0.8);
+}
+
+.image-container:hover .zoom-overlay {
+    display: flex;
+}
+
+.image-container:hover .zoomed-image {
+    max-width: 200%; /* Modifica el valor según el tamaño deseado */
+    max-height: 200%; /* Modifica el valor según el tamaño deseado */
+}

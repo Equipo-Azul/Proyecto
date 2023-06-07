@@ -4,10 +4,13 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<link rel="stylesheet" href="~/css/productos.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<h1>Lista de Productos</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="btn btn-success">Crear nuevo Producto</a>
 </p>
 <table class="table">
     <thead>
@@ -49,17 +52,68 @@
                 @Html.DisplayFor(modelItem => item.PorcentajeDescuento)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.ImageName)
+                    <div class="image-container">
+                        <img class="image-thumbnail" src="@item.ImageName" alt="Imagen">
+                        <div class="zoom-overlay">
+                            <img class="zoomed-image" src="@item.ImageName" alt="Zoomed Image">
+                        </div>
+                    </div>
+                
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Status)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Editar </a> |
+                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger" >Eliminar</a>
             </td>
         </tr>
 }
     </tbody>
 </table>
+
+<div id="image-modal" class="modal">
+    <span class="close">&times;</span>
+    <div class="modal-content">
+        <img id="modal-image">
+    </div>
+</div>
+
+<style>
+    .modal-content {
+        text-align: center;
+    }
+
+    .modal-content img {
+        max-width: 300px;
+        max-height: 300px;
+    }
+</style>
+
+<script>
+    var imageLinks = document.getElementsByClassName('image-link');
+    var modal = document.getElementById('image-modal');
+    var modalImage = document.getElementById('modal-image');
+    var closeBtn = document.getElementsByClassName('close')[0];
+
+    for (var i = 0; i < imageLinks.length; i++) {
+        imageLinks[i].addEventListener('click', function (event) {
+            event.preventDefault();
+            var imageUrl = this.getAttribute('data-image-url');
+            modalImage.src = imageUrl;
+            modal.style.display = 'block';
+        });
+    }
+
+    closeBtn.addEventListener('click', function () {
+        modal.style.display = 'none';
+    });
+
+    window.addEventListener('click', function (event) {
+        if (event.target == modal) {
+            modal.style.display = 'none';
+        }
+    });
+</script>
+
