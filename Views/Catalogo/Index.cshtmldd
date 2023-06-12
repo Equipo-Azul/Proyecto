@@ -25,21 +25,17 @@
   </style>
     
     
-    
-    
-    
-    
- <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0FY860020M"></script>
+    <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NBR58Q9FGG"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-0FY860020M');
+  gtag('config', 'G-NBR58Q9FGG');
 </script>
-    
-    
+    </head>
     
     
 <link rel="stylesheet" href="~/css/catalogo.css">
